@@ -54,7 +54,7 @@ Seeeduino XIAO has 14 GPIO PINs, which can be used for 11 digital interfaces, 11
 ## Hardware Overview
 
 
-![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/Seeeduino%20XIAO%20pinout.jpg)
+![](https://https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/Seeeduino-XIAO-pinout.jpg)
 
 
 ![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/Seeeduino%20XIAO%20pinout2.jpg)
