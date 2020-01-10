@@ -43,7 +43,7 @@ Seeeduino XIAO has 14 GPIO PINs, which can be used for 11 digital interfaces, 11
 |Dimensions|23.5×17.5×3.5mm|
 
 
-!!!note:
+!!!Note:
 
     1.The MCU of this design is powered by 3.3v, please pay attention not to introduce the IO level of 5V into the IO interface of the system, otherwise the chip may be damaged;
     2.Please pay attention to use, do not lift the shield cover.
