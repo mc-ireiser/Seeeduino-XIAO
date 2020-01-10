@@ -171,6 +171,11 @@ Now, simply click the "Upload" button in the environment. Wait a few seconds and
 
 
 
+## Schematic Online Viewer
+
+<div class="altium-ecad-viewer" data-project-src="https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/res/Seeeduino-XIAO-v1.0.zip" style="border-radius: 0px 0px 4px 4px; height:500px; border-style: solid; border-width: 1px; border-color: rgb(241,241, 241); overflow: hidden; max-width: 1280px; max-height: 700px; box-sizing: border-box;" /></div>
+
+
 
 ## Resourses
 
@@ -179,11 +184,7 @@ Now, simply click the "Upload" button in the environment. Wait a few seconds and
 - **[PDF]** [ATSAMD218A-MU datasheet](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/res/ATSAMD21G18A-MU-Datasheet.pdf)
 
 
-## Schematic Online Viewer
 
-
-<div class="altium-ecad-viewer" data-project-src="https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/res/Seeeduino-XIAO-v1.0.zip" style="border-radius: 0px 0px 4px 4px; height:500px; border-style: solid; border-width: 1px; border-color: rgb(241,241, 241); overflow: hidden; max-width: 1280px; max-height: 700px; box-sizing: border-box;" /></div>
- 
- 
 ## Tech Support
+
 Please do not hesitate to submit the issue into our [forum](https://forum.seeedstudio.com/).
