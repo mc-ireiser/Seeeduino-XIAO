@@ -8,7 +8,7 @@ sku: 102010328
 tags:
 ---
 
-![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/seeeduino-xiao-all.jpg)
+![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/seeeduino-XIAO-wiki.jpg)
 
 The Seeeduino XIAO is the smallest member of the Seeeduino family. It carries the powerful ATSAMD21G18A-MU which is a low-power microcontrollers. On the other hand, this little board has good performance in processing but needs less power. As a matter of fact, it is designed in a tiny size and can be used for wearable devices and small projects.
 
@@ -54,7 +54,7 @@ Seeeduino XIAO has 14 GPIO PINs, which can be used for 11 digital interfaces, 11
 ## Hardware Overview
 
 
-![](https://https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/Seeeduino-XIAO-pinout.jpg)
+![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/Seeeduino-XIAO-pinout.jpg)
 
 
 ![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/Seeeduino%20XIAO%20pinout2.jpg)
