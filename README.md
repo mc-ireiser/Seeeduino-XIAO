@@ -8,7 +8,7 @@ sku: 102010328
 tags:
 ---
 
-![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/seeeduino-XIAO-wiki.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/Seeeduino-XIAO-preview-1.jpg)
 
 The Seeeduino XIAO is the smallest member of the Seeeduino family. It carries the powerful ATSAMD21G18A-MU which is a low-power microcontrollers. On the other hand, this little board has good performance in processing but needs less power. As a matter of fact, it is designed in a tiny size and can be used for wearable devices and small projects.
 
