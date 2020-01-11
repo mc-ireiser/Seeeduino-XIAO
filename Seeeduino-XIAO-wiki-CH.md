@@ -1,5 +1,5 @@
 
-![](http://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/Seeeduino-XIAO-preview-1.jpg)
+![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/Seeeduino-XIAO-preview-1.jpg)
 
 Seeeduino XIAO是Seeeduino最小的开发板。它搭载了功能强大的ATSAMD21G18A-MU低功耗微控制器。另一方面，这种小电路板具有良好的处理性能，并且需要的功率较小。它的设计尺寸很小，可用于可穿戴设备和小型项目。
 
@@ -54,7 +54,7 @@ Seeeduino XIAO有14个GPIO引脚，可用于11个数字接口、11个模拟接�
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/Seeeduino-XIAO-pinout.jpg)
 
-![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/Seeeduino%20XIAO%20pinout2.jpg)
+![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/Seeeduino%20XIAO%20pinout%202.png)
 
 ## 入门
 
