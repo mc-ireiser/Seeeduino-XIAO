@@ -1,5 +1,5 @@
 
-[https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/Seeeduino-XIAO-preview-1.jpg ](http://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/Seeeduino-XIAO-preview-1.jpg)
+![](http://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/Seeeduino-XIAO-preview-1.jpg)
 
 Seeeduino XIAO是Seeeduino最小的开发板。它搭载了功能强大的ATSAMD21G18A-MU低功耗微控制器。另一方面，这种小电路板具有良好的处理性能，并且需要的功率较小。它的设计尺寸很小，可用于可穿戴设备和小型项目。
 
@@ -52,9 +52,9 @@ Seeeduino XIAO有14个GPIO引脚，可用于11个数字接口、11个模拟接�
 ## 硬件概述
 
 
-[https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/Seeeduino-XIAO-pinout.jpg ](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/Seeeduino-XIAO-pinout.jpg )
+![](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/Seeeduino-XIAO-pinout.jpg)
 
-https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/Seeeduino%20XIAO%20pinout2.jpg 
+![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/Seeeduino%20XIAO%20pinout2.jpg)
 
 ## 入门
 
@@ -111,31 +111,35 @@ https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/Seeeduino%20XIAO%
 - **步骤2.打开闪烁示例**
 
 打开LED闪烁示例程序：文件>示例>01.Basics>Blink。 
-[https://raw.githubusercontent.com/SeeedDocument/Seeeduino_GPRS/master/img/select_blink.png](https://raw.githubusercontent.com/SeeedDocument/Seeeduino_GPRS/master/img/select_blink.png)
+![](https://raw.githubusercontent.com/SeeedDocument/Seeeduino_GPRS/master/img/select_blink.png)
 
 - **步骤3.将Seeeduino添加到Arduino IDE中**
 
-单击“文件>首选项”，并用以下url填入到 其他开发板管理器url:[https://raw.githubusercontent.com/Seeed-Studio/Seeeduino-Boards/master/package_seeeduino_index.json](https://raw.githubusercontent.com/Seeed-Studio/Seeeduino-Boards/master/package_seeeduino_index.json)
-[https://raw.githubusercontent.com/SeeedDocument/Seeeduino-Femto/master/.img/wiki2.png](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-Femto/master/.img/wiki2.png))
+单击“文件>首选项”，并用以下url填入到 其他开发板管理器url:[https://raw.githubusercontent.com/Seeed-Studio/Seeeduino-Boards/master/package_seeeduino_index.json]
+![](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-Femto/master/.img/wiki2.png))
  
  
 单击“工具”->“电路板”->“电路板管理器…”，在搜索空白处输入关键字“Seeeduino XIAO”。这里是“Seeed SAMD板”。然后安装。
-[https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/Seeeduino-XIAO-board.png ](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/Seeeduino-XIAO-board.png )
+
+![](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/Seeeduino-XIAO-board.png )
 
 - **步骤4.选择您的板和端口**
 
 安装板后，点击工具->板，找到“Seeeduino XIAO M0”并选中。现在您已经在Arduino IDE中添加了Seeeduino XIAO开发板。
-[https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/board.png ](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/board.png )
+
+![](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/board.png )
 
 从“工具”|“串行端口”菜单中选择Arduino板的串行设备。可能是COM3或更高版本（**COM1**和**COM2**通常为硬件串行端口保留）。如果您不清楚的话，可以断开开发板并重新打开菜单；消失的条目应该是这个开发板。重新连接板并选择该串行端口。
-[https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/port.png ](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/port.png )
+
+![](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/port.png )
  
 
 
 - **步骤5.上传程序**
 
 现在，只需在IDE中单击“上载”按钮。稍等几秒钟，如果上传成功，状态栏中将显示消息“Done uploading.”。
-[https://raw.githubusercontent.com/SeeedDocument/Seeeduino_GPRS/master/img/upload_image.png ](https://raw.githubusercontent.com/SeeedDocument/Seeeduino_GPRS/master/img/upload_image.png )
+
+![](https://raw.githubusercontent.com/SeeedDocument/Seeeduino_GPRS/master/img/upload_image.png )
 
 上传完成几秒钟后，您应该会看到板上的引脚13（L）LED开始闪烁（橙色）。如果是的话，恭喜你！你已经让Seeeduino XIAO开始运行了。如果您有问题，请参阅故障排除建议。 
 
