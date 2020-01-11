@@ -9,13 +9,17 @@ Sometimes when we use Raspberry Pi, these situations can be very disturbing to u
 
 - [Seeeduino XIAO x1](http://www.seeedstudio.com/.html)
 
-- [Raspberry PI Zero x1]
+- Raspberry PI Zero x1
 
 - Dupont cable x3
 
 - Type-C cable x1
 
 ### Hardware Overview
+
+The following figure is the pin map of Raspberry Pi:
+
+![]()
 
 **Hardware Connection**
 
