@@ -19,7 +19,15 @@ Sometimes when we use Raspberry Pi, these situations can be very disturbing to u
 
 The following figure is the pin map of Raspberry Pi:
 
-![]()
+
+![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/img/Raspberry-PI-pinout.png)
+
+
+The following figure is the pin map of Seeeduino XIAO:
+
+
+![](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/Seeeduino-XIAO-pinout.jpg)
+
 
 **Hardware Connection**
 
@@ -36,14 +44,15 @@ The following figure is the pin map of Raspberry Pi:
 
 ### Software
 
+Find the config.txt file on the TF card of the Raspberry Pi official system, and add a sentence at the end:
 
-!!!Attention
+```c
+enable_uart=1
+```
 
-    If this is the first time you work with Arduino, we strongly recommend you to see [Getting Started with Arduino](http://wiki.seeedstudio.com/Getting_Started_with_Arduino/) before the start.
 
+After saving, first open the serial port communication software on your PC and set the serial port baud rate to 115200. This is the default serial port baud rate. It can be communicated correctly if it is consistent with the serial port baud rate of the Raspberry Pi. After inserting the card to start the Raspberry Pi, you will see the startup information in the terminal window.
 
-
-- **Step 1.** Copy the code below into Arduino IDE and upload. If you do not know how to upload the code, please check [how to upload code](http://wiki.seeedstudio.com/Upload_Code/).
 
 
 ```c
@@ -102,6 +111,4 @@ void loop() {
   }
 }
 ```
-- **Step 2.** Open the **Serial Monitor** of Arduino IDE by click **Tool-> Serial Monitor**. Or tap the **ctrl+shift+m** key at the same time. Set the baud rate to **9600**.
-- **Step 3.** Open the serial debugging assistant, set the baud rate to 9600.
-- **Step 4.** Now you can communicate between USB and serial port.
+
