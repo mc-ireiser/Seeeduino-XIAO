@@ -1,4 +1,4 @@
-## USB to Serial Port
+## How to use Seeeduino XIAO to log in to your Raspberry PI
 
 
 ### Hardware
@@ -25,7 +25,6 @@
 
 - **Step 5.** Connect UartSBee v5 to PC via a USB cable.
 
-![](https://raw.githubusercontent.com/SeeedDocument/Seeeduino-XIAO/master/img/usb-ttl.jpg)
 
 ### Software
 
