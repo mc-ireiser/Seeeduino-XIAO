@@ -1,29 +1,33 @@
 ## How to use Seeeduino XIAO to log in to your Raspberry PI
 
 
+Sometimes when we use Raspberry Pi, these situations can be very disturbing to us: no extra HDMI displays around, mouse and keyboard are not easy to connect, choose to log in to the raspberry pie with the USB to Serial adapter, but it's too expensive. NOW, with Seeeduino XIAO, all problems are readily solved.
+
 ### Hardware
 
 **Materials required**
 
 - [Seeeduino XIAO x1](http://www.seeedstudio.com/.html)
 
-- [UartSBee v5 x1](https://www.seeedstudio.com/UartSBee-V5.html)
+- [Raspberry PI Zero x1]
 
-- USB typc cable x1
+- Dupont cable x3
 
 - Type-C cable x1
 
+### Hardware Overview
+
 **Hardware Connection**
 
-- **Step 1.** UartSBee v5's **TX** is connected to Seeeduino XIAO's **RX**
+- **Step 1.** Raspberry PI's **TX** is connected to Seeeduino XIAO's **RX**
 
-- **Step 2.** UartSBee v5's **RX** is connected to Seeeduino XIAO's **TX**
+- **Step 2.** Raspberry PI's **RX** is connected to Seeeduino XIAO's **TX**
 
-- **Step 3.** UartSBee v5's **GND** is connected to Seeeduino XIAO's **GND**
+- **Step 3.** Raspberry PI's **GND** is connected to Seeeduino XIAO's **GND**
 
 - **Step 4.** Connect Seeeduino XIAO to PC via a Type-C cable.
 
-- **Step 5.** Connect UartSBee v5 to PC via a USB cable.
+- **Step 5.** The raspberry pie is connected to a power supply.
 
 
 ### Software
